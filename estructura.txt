@@ -1,0 +1,46 @@
+SupportFlow
+│
+├── api
+│   ├── app.py
+│   │
+│   ├── controllers
+│   │   ├── tecnico_controller.py
+│   │   ├── usuario_controller.py
+│   │   ├── ticket_controller.py
+│   │   └── ticket_historial_controller.py
+│   │
+│   ├── services
+│   │   ├── tecnico_service.py
+│   │   ├── usuario_service.py
+│   │   ├── ticket_service.py
+│   │   └── ticket_historial_service.py
+│   │
+│   ├── models
+│   │   ├── tecnico.py
+│   │   ├── usuario.py
+│   │   ├── ticket.py
+│   │   └── ticket_historial.py
+│   │
+│   └── database
+│       └── db.py
+│
+├── CrudSistemaTickets
+│   ├── main.py
+│   │
+│   ├── services
+│   │   ├── tecnico_service.py
+│   │   ├── usuario_service.py
+│   │   ├── ticket_service.py
+│   │   └── ticket_historial_service.py
+│   │
+│   └── models
+│       ├── tecnico.py
+│       ├── usuario.py
+│       ├── ticket.py
+│       └── ticket_historial.py
+│
+├── runn_all.py
+├── venv
+├── architecture.png
+├── requirements.txt
+├── README.md 
