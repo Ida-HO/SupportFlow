@@ -43,36 +43,54 @@ Flujo interno:
 
 
 ## Estructura del proyecto
-```
-SupportFlow/
-├── api/
+´´´
+SupportFlow
+│
+├── api
 │   ├── app.py
-│   ├── controllers/
+│   │
+│   ├── controllers
 │   │   ├── tecnico_controller.py
 │   │   ├── usuario_controller.py
 │   │   ├── ticket_controller.py
 │   │   └── ticket_historial_controller.py
-│   ├── services/
+│   │
+│   ├── services
 │   │   ├── tecnico_service.py
 │   │   ├── usuario_service.py
 │   │   ├── ticket_service.py
 │   │   └── ticket_historial_service.py
-│   ├── models/
+│   │
+│   ├── models
 │   │   ├── tecnico.py
 │   │   ├── usuario.py
 │   │   ├── ticket.py
 │   │   └── ticket_historial.py
-│   └── database/
+│   │
+│   └── database
 │       └── db.py
-├── CrudSistemaTickets/
+│
+├── CrudSistemaTickets
 │   ├── main.py
-│   ├── services/ ...
-│   └── models/ ...
-├── run_all.py
+│   │
+│   ├── services
+│   │   ├── tecnico_service.py
+│   │   ├── usuario_service.py
+│   │   ├── ticket_service.py
+│   │   └── ticket_historial_service.py
+│   │
+│   └── models
+│       ├── tecnico.py
+│       ├── usuario.py
+│       ├── ticket.py
+│       └── ticket_historial.py
+│
+├── runn_all.py
+├── venv
 ├── architecture.png
 ├── requirements.txt
-└── README.md
-```
+├── README.md 
+´´´
 
 ## Tecnologías utilizadas
 
