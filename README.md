@@ -43,7 +43,7 @@ Flujo interno:
 
 
 ## Estructura del proyecto
-
+```
 SupportFlow
 │
 ├── api
@@ -88,10 +88,8 @@ SupportFlow
 ├── runn_all.py
 ├── architecture.png
 ├── requirements.txt
-├── README.md 
-├── venv
-
-
+├── README.md
+```
 
 ## Tecnologías utilizadas
 
