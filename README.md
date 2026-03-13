@@ -80,6 +80,7 @@ SupportFlow/
 ├── architecture.png
 ├── requirements.txt
 └── README.md
+```
 
 ## Tecnologías utilizadas
 
