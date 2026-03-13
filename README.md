@@ -43,7 +43,7 @@ Flujo interno:
 
 
 ## Estructura del proyecto
-
+```
 SupportFlow/
 ├── api/
 │   ├── app.py
