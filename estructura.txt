@@ -40,7 +40,6 @@ SupportFlow
 │       └── ticket_historial.py
 │
 ├── runn_all.py
-├── venv
 ├── architecture.png
 ├── requirements.txt
 ├── README.md 
