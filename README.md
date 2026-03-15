@@ -71,10 +71,3 @@ python CrudSistemaTickets/main.py
 
 ## Autora
 Ida Huenchulaf — Proyecto académico.
-
-
-
-
-## Autora: *Ida Huenchulaf*
-
-Proyecto desarrollado como práctica avanzada de arquitectura backend en Python.
